@@ -38,12 +38,12 @@ A fully functional **To-Do List** web application built using **Flask**, **HTML*
 - **SQLite** – Lightweight, file-based relational database
 
 ---
-🌑 Dark Mode
+🌑 **Dark Mode**
 
 Use the 🌗 Dark Mode toggle button to switch the UI theme. The style changes apply to cards, tables, and form elements.
 
 ---
-🧠 ** Concepts Learn From This App **
+🧠 **Concepts Learn From This App**
 
     Flask App Factory pattern
 
